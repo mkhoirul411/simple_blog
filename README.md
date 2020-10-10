@@ -1,1 +1,1 @@
-# simple_blog for learning pull
+# simple_blog 

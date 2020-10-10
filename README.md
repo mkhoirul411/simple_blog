@@ -1,1 +1,1 @@
-# simple_blog for learning git pull
+# simple_blog add title blog
